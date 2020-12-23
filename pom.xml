@@ -59,5 +59,13 @@
             </plugin>
         </plugins>
     </build>
-
+<!-- omitted xml -->
+    <distributionManagement>
+        <repository>
+            <!--必须与 settings.xml 的 id 一致-->
+            <id>luobumiao-coding-devops-guide-testmaven</id>
+            <name>testmaven</name>
+            <url>https://luobumiao-maven.pkg.coding.net/repository/coding-devops-guide/testmaven/</url>
+        </repository>
+    </distributionManagement>
 </project>
