@@ -2,9 +2,10 @@
     <!-- omitted xml -->
     <servers>
         <server>
+            <!--仓库 ID-->
             <id>luobumiao-coding-devops-guide-testmaven</id>
-            <username>JvUNMPhJCh</username>
-            <password>[PASSWORD]</password>
+            <username>testmaven-1608717103145</username>
+            <password>a3b8564eec4efbd7db989ccc56aeb171c948eaa9</password>
         </server>
     </servers>
 </settings>
