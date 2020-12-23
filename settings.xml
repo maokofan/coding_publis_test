@@ -1,0 +1,10 @@
+<settings>
+    <!-- omitted xml -->
+    <servers>
+        <server>
+            <id>luobumiao-coding-devops-guide-testmaven</id>
+            <username>JvUNMPhJCh</username>
+            <password>[PASSWORD]</password>
+        </server>
+    </servers>
+</settings>
